@@ -45,29 +45,15 @@ Compare actual vs predicted prices using scatter plot.
 
 Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/house-price-prediction.git
-cd house-price-prediction
 Create and activate a virtual environment (optional):
 
-bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the Jupyter notebook:
 
-bash
-Copy
-Edit
 jupyter notebook
 
 Results
